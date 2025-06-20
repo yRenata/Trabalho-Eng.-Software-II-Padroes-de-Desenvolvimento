@@ -4,7 +4,7 @@
 
 ## 📌 Definição
 
-O Proxy é um **padrão de projeto estrutural** que fornece um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto real, podendo adicionar funcionalidades antes ou depois do acesso.
+O Proxy é um **padrão de projeto estrutural** que fornece um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto real, podendo adicionar funcionalidades antes ou depois do acesso. ( Váriações de proxy: Proxy Virtual, Proxy Remoto, Proxy de Proteção e Proxy Inteligente )
 
 ## ❓ Problema
 
