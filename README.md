@@ -1,6 +1,6 @@
-## Padrões de Desenvolvimento
+# Padrões de Desenvolvimento
 
-# Padrão de Projeto: Proxy
+## Padrão de Projeto: Proxy
 
 ## 📌 Definição
 
