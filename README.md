@@ -223,7 +223,7 @@ node proxyruim.js
 - Comparação entre os padrões
 
 ### 🎯 **Link do Vídeo:**
-> **[📹 Assistir Apresentação](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
+> **[📹 Assistir Apresentação](https://drive.google.com/file/d/1bmqzZMjKF7CwMsHTVMi5xPD5-OwykrqZ/view?usp=drivesdk)**
 
 ---
 
