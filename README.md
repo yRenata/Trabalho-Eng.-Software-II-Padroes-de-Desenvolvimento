@@ -28,6 +28,7 @@ Esses padrões resolvem problemas relacionados a:
 
 ---
 
+
 ## Padrão de Projeto: Proxy
 
 ## 📌 Definição
@@ -54,20 +55,6 @@ Criamos uma **classe Proxy** que implementa a mesma interface da classe real. El
 > **Cartão de crédito = Proxy do dinheiro real**
 
 O cartão de crédito tem a mesma função que o dinheiro (pagamento), mas controla o acesso ao saldo da conta bancária, adicionando segurança, praticidade e controle.
-
-### 🎯 Vantagens
-- ✅ **Controle de acesso**: Pode restringir operações baseado em permissões
-- ✅ **Cache**: Evita operações custosas repetidas
-- ✅ **Lazy loading**: Só cria objetos quando realmente necessário
-- ✅ **Transparência**: Cliente não sabe que está usando um proxyx
-- ✅ **Segurança**: Pode adicionar camadas de proteção
-- ✅ **Logging**: Pode registrar todas as operações
-
-### 🎯 Desvantagens
-- ❌ **Latência adicional**: Pode introduzir delay nas operações
-- ❌ **Complexidade**: Adiciona uma camada extra de abstração
-- ❌ **Memória**: Proxy pode consumir memória adicional
-- ❌ **Debugging**: Pode dificultar a depuração do código
 
 ---
 
